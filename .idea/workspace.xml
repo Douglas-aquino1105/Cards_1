@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="007dd8e5-75a8-49e8-ac93-0caff2e743fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Cards 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="007dd8e5-75a8-49e8-ac93-0caff2e743fc" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +12,77 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Douglas-aquino1105"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Douglas-aquino1105/Cards_1.git",
+    "accountId": "87d8c211-a85b-4929-90de-47d5c3a0ba8a"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.014885458528809" />
+      <entry key="MS500" value="1.5119419737261346" />
+      <entry key="S2" value="2.696574452399493" />
+      <entry key="S5" value="3.3772972407730872" />
+      <entry key="S10" value="4.2055778471984695" />
+      <entry key="S30" value="12.12598689986159" />
+      <entry key="S60" value="20.818447082901308" />
+      <entry key="M2" value="28.238375811432654" />
+      <entry key="M5" value="34.20869713834664" />
+      <entry key="M10" value="36.5148049349055" />
+      <entry key="M15" value="37.32262667193954" />
+      <entry key="M30" value="38.15085002158973" />
+      <entry key="H1" value="38.57277583849213" />
+      <entry key="H2" value="38.78572141114916" />
+      <entry key="H4" value="38.892693548702916" />
+      <entry key="D1" value="38.98209233010794" />
+      <entry key="W1" value="38.9974411911893" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9871333447116198" />
+      <entry key="MS500" value="1.5024169983526763" />
+      <entry key="S2" value="2.6889445196314794" />
+      <entry key="S5" value="3.3727440045598893" />
+      <entry key="S10" value="4.202195742292606" />
+      <entry key="S30" value="12.121737569503882" />
+      <entry key="S60" value="20.81470846853382" />
+      <entry key="M2" value="28.235829717591336" />
+      <entry key="M5" value="34.20746264478807" />
+      <entry key="M10" value="36.514146114030325" />
+      <entry key="M15" value="37.32217776062207" />
+      <entry key="M30" value="38.15062059766711" />
+      <entry key="H1" value="38.57265986157227" />
+      <entry key="H2" value="38.78566310354578" />
+      <entry key="H4" value="38.89266431474971" />
+      <entry key="D1" value="38.98208744661909" />
+      <entry key="W1" value="38.99744049327426" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3,
@@ -39,6 +103,11 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
     "settings.editor.selected.configurable": "settings.sync",
     "to.speed.mode.migration.done": "true"
@@ -58,12 +127,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1789753651172</updated>
-      <workItem from="1789753652185" duration="282000" />
+      <workItem from="1789753652185" duration="581000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1789754092901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789754092901</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
